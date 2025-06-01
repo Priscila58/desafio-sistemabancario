@@ -1,4 +1,4 @@
-# desafio-sistemabancario
+# SISTEMA-BANCARIO
 menu = """
 
 [d] Depositar
